@@ -1,7 +1,7 @@
 ## Deskripsi Aplikasi 
-Source Code Aplikasi Penjualan Barang sederhana berbasis Website dengan PHP & MYSQL.
+Aplikasi Penjualan ini berbasis Website menggunakan PHP, CodeIgniter, Bootstrap 4, DataTables, Jquery, and Javascript.
 <br>
-Source Blog : <a href="" target="_blank">DISINI</a>
+My GitHub : <a href="https://github.com/jerrard-bot/toko_sukamaju.git" target="_blank">DISINI</a>
 
 ## Setting Koneksi PHP
 Setting koneksi di config.php dan ganti username, password dan dbname nya
@@ -11,5 +11,5 @@ User : admin
 <br/>
 Pass : jerrard
 <br>
-<span style="color:red">* Penggunaan Login untuk <b>single User</b> </span>
+<span style="color:red">* Penggunaan Login untuk * <b>Single User Only</b> </span>
 
